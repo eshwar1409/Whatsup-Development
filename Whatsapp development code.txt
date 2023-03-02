@@ -1,0 +1,8 @@
+This is whatsup code:
+
+Author : eshwar
+
+1. Profile page code
+2. chat screen code
+3. last seen code
+4. Attachments ( Image, Audio, Video) code
